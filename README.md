@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dkohacn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... but you will not be able to reaching me LOL
+- 👀 I’m interested in exploring something new
+- 🌱 I’m currently learning Java and Git
+- 💞️ I’m looking forward someone who can mentor me :D
+- 📫 How to reach me ... hmmm you will see :D
 
 <!---
 dkohacn/dkohacn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
